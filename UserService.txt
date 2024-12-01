@@ -1,6 +1,6 @@
 Get User Data.
 process the data.
 
-wel come to the avatar.
+this is lite version.
 
 login and logoout
